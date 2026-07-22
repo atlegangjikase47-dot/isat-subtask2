@@ -44,6 +44,7 @@ string decimalToHexadecimal(int decimal) {
     return hex;
 }
 
+//change hexadecimal to decimal
 // Function 4: Hexadecimal to Decimal
 int hexadecimalToDecimal(string hex) {
     int decimal = 0;
