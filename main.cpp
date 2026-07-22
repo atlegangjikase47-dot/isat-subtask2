@@ -92,6 +92,7 @@ int main() {
                     cout << "Binary representation: " << decimalToBinary(decimal) << endl;
                     break;
                 }
+                //string binary show in seconds
                 case 2: {
                     string binary;
                     cout << "Enter a binary number (only 0s and 1s): ";
