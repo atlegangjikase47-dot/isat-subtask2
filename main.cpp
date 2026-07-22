@@ -13,7 +13,7 @@ string decimalToBinary(int decimal) {
     }
     return binary;
 }
-
+//change binary to decimal 
 // Function 2: Binary to Decimal
 int binaryToDecimal(string binary) {
     int decimal = 0;
