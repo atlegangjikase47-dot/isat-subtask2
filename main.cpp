@@ -2,7 +2,7 @@
 #include <string>
 #include <algorithm> // for transform
 using namespace std;
-
+// decimal has to be 0 and return to '0'
 // Function 1: Decimal to Binary
 string decimalToBinary(int decimal) {
     if (decimal == 0) return "0";
