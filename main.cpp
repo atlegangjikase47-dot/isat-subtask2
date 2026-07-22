@@ -31,7 +31,7 @@ int binaryToDecimal(string binary) {
     }
     return decimal;
 }
-
+// change decimal to hexadecimal
 // Function 3: Decimal to Hexadecimal
 string decimalToHexadecimal(int decimal) {
     if (decimal == 0) return "0";
